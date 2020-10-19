@@ -33,8 +33,8 @@
         {
           "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": false,
-            "autoLabel": false,
+            "sourceMap": true,
+            "autoLabel": true,
             "plugins": []
           }
         }
@@ -77,8 +77,8 @@
         {
           "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": false,
-            "autoLabel": false,
+            "sourceMap": true,
+            "autoLabel": true,
             "plugins": []
           }
         }
@@ -121,8 +121,8 @@
         {
           "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": false,
-            "autoLabel": false,
+            "sourceMap": true,
+            "autoLabel": true,
             "plugins": []
           }
         }
@@ -165,8 +165,8 @@
         {
           "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": false,
-            "autoLabel": false,
+            "sourceMap": true,
+            "autoLabel": true,
             "plugins": []
           }
         }

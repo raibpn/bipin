@@ -7,34 +7,34 @@
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": []
           }
         },
         {
-          "name": "E:\\bipin\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": false,
-            "autoLabel": false,
+            "sourceMap": true,
+            "autoLabel": true,
             "plugins": []
           }
         }
@@ -51,34 +51,34 @@
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": []
           }
         },
         {
-          "name": "E:\\bipin\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": false,
-            "autoLabel": false,
+            "sourceMap": true,
+            "autoLabel": true,
             "plugins": []
           }
         }
@@ -95,34 +95,34 @@
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": []
           }
         },
         {
-          "name": "E:\\bipin\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": false,
-            "autoLabel": false,
+            "sourceMap": true,
+            "autoLabel": true,
             "plugins": []
           }
         }
@@ -139,34 +139,34 @@
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "E:\\bipin\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": []
           }
         },
         {
-          "name": "E:\\bipin\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "E:\\Portfolio\\my-gatsby-project\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
-            "sourceMap": false,
-            "autoLabel": false,
+            "sourceMap": true,
+            "autoLabel": true,
             "plugins": []
           }
         }

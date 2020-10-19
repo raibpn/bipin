@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { Box, Flex, useColorMode, jsx } from "theme-ui"
+import {  useColorMode, jsx } from "theme-ui"
 
 const footer = () => {
   const [colorMode, setColorMode] = useColorMode()

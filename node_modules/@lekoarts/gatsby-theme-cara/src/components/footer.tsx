@@ -1,7 +1,7 @@
 /** @jsx jsx */
 import { Box, Flex, useColorMode, jsx } from "theme-ui"
 
-const Footer = () => {
+const footer = () => {
   const [colorMode, setColorMode] = useColorMode()
   const isDark = colorMode === `dark`
   const toggleColorMode = (e: any) => {
@@ -9,7 +9,7 @@ const Footer = () => {
   }
 
   return (
-    <Box as="" variant="">
+    <Box as="footer" variant="footer">
       <button
         sx={{ variant: `buttons.toggle`, fontWeight: `semibold`, display: `block`, mx: `auto`, mb: 3 }}
         onClick={toggleColorMode}
@@ -35,4 +35,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default footer
